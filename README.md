@@ -1,1 +1,1 @@
-# Bank_Loan_term_prediction
+# Bank loan term prediction
