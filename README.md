@@ -58,5 +58,6 @@ The project process and result has presented. To see the presentation slides cli
 
 [Project Presentation](https://github.com/AliMufeed/Bank_Loan_term_prediction/blob/main/Presentation%20Bank%20Loan%20Term%20Prediction.pdf)
 
+[Project Code](Bank_Loan_Term_Prediction_classification.ipynb)
 
 
